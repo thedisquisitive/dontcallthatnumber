@@ -1,0 +1,10 @@
+{
+    "name": "Don't Call That Number!",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "This extension will help prevent you from calling bad people.",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Don't Call That Number!"
+    }
+}
